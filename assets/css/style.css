@@ -1,0 +1,62 @@
+/*Cambia el color de fondo de la pagina en general*/
+.content{
+    background-color: white;
+}
+/*Cambia el color de fondo del encabezado*/
+.header__banner{
+    background-color: black;
+}
+/*Cambia el tipo de letra del titulo a Oswald*/
+/*Cambia el color de la letra del titulo*/
+/*Cambia el tamaño de la letra del titulo a 36px*/
+.banner__title{
+    font-family: "Sans Serif", Arial, Sans-Serif;
+    color: white;
+    font-size: 18px;
+}
+/*Cambia el color de fondo de los articulos*/
+.section__article{
+    background-color: white;
+}
+/*Cambia el tipo de letra del titulo del articulo a Montserrat*/
+/*Cambia el color de la letra del titulo del articulo*/
+/*Cambia el tamaño de la letra del titulo del articulo 24px*/
+.article__issue{
+    font-family: "Sans Serif", Arial, Sans-Serif;
+    color: black;
+    font-size: 18px;
+}
+/*Cambia el tipo de letra del texto del articulo a Roboto*/
+/*Cambia el color de la letra del texto del articulo*/
+/*Cambia el tamaño de la letra del texto del articulo 18*/
+.article__text{
+    font-family: "Sans Serif",  Arial, Sans-Serif;
+    color: black;
+    font-size: 14px;
+}
+/*Cambia el tipo de letra del texto del articulo a Josefin Sans*/
+/*Cambia el color de remarcado del texto*/
+.article__span{
+    font-family: "Sans Serif", Arial, Sans-Serif;
+    background-color: yellow;
+}
+/*Cambia el tipo de letra del texto del articulo a Smooch Sans*/
+/*Cambia el color del hipervinculo*/
+.article__link{
+    font-family: "Sans Serif", Arial, Sans-Serif;
+    color: red;
+}
+/*Cambiar el de fondo del pie de pagina*/
+/*Cambia la alineacion del texto a al centro*/
+.footer{
+    background-color: black;
+    text-align: right;
+}
+/*Cambia el tipo de letra del pie de pagina a Montserrat*/
+/*Cambia el color de la letra del pie de pagina*/
+/*Cambia el tamaño de la letra del pie de pagina a 30px*/
+.paragraph__text{
+    font-family: "Sans Serif", Arial, Sans-Serif;
+    color: white;
+    font-size: 18px;
+}

@@ -1,0 +1,72 @@
+/*Cambia el color de fondo de la pagina en general*/
+.content{
+    background-color: white;
+}
+/*Cambia el color de fondo del encabezado*/
+.header__banner{
+    background-color: black;
+}
+/*Cambia el color de la letra del titulo*/
+.galery__link{
+    color: white;
+}
+/*Cambia el tipo de letra del titulo a Oswald*/
+/*Cambia el tamaño de la letra del titulo a 36px*/
+.banner__title{
+    font-family: "Sans Serif", Arial, Sans-Serif;
+    font-size: 18px;
+}
+/*Cambia el tipo de letra del titulo de la galeria a Oswald*/
+/*Cambia el color de la letra del titulo de la galeria*/
+/*Cambia el tamaño de la letra del titulo de la galeria a 24px*/
+.galery__issue{
+    font-family: "Sans Serif", Arial, Sans-Serif;
+    color: black;
+    font-size: 18px;
+}
+/*Cambia el tipo de letra del titulo de la galeria a Montserrat*/
+/*Cambia el color de la letra del titulo de la galeria*/
+/*Cambia el tamaño de la letra del titulo de la galeria*/
+.galery__figure{
+    background-color: white;
+}
+/*Cambia las dimensiones de las fotos de la galeria*/
+/*imagen1*/
+.galery__figure > img:nth-child(1){
+    width: 500px;
+    height: 350px;
+}
+/*imagen2*/
+.galery__figure > img:nth-child(2){
+    width: 300px;
+    height: 350px;
+}
+/*imagen3*/
+.galery__figure > img:nth-child(3){
+    width: 300px;
+    height: 350px;
+}
+/*imagen4*/
+.galery__figure > img:nth-child(4){
+    width: 500px;
+    height: 350px;
+}
+/*imagen5*/
+.galery__figure > img:nth-child(5){
+    width: 600px;
+    height: 350px;
+}
+/*Cambiar el de fondo del pie de pagina*/
+/*Cambia la alineacion del texto a al centro*/
+.footer{
+    background-color: black;
+    text-align: right;
+}
+/*Cambia el tipo de letra del pie de pagina a Montserrat*/
+/*Cambia el color de la letra del pie de pagina*/
+/*Cambia el tamaño de la letra del pie de pagina a 30px*/
+.paragraph__text{
+    font-family: "Sans Serif", Arial, Sans-Serif;
+    color: white;
+    font-size: 18px;
+}
